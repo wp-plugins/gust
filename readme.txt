@@ -4,7 +4,7 @@ Donate link: http://wordofpress.com/gust
 Tags: ghost, admin panel, markdown, editor, dashboard, admin
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 0.3.2
+Stable tag: 0.3.3
 License: MIT
 License URI: http://wordofpress.com/gust/license
 
@@ -35,6 +35,10 @@ Requirements:
 
 == Frequently Asked Questions ==
 
+= Empty post list with Disqus commenting system =
+
+Please check 'Output Javascript in footer' option in Disqus plugin options screen to fix.
+
 = Why I cannot add/remove categories = 
 
 Category manager is comming in v0.4
@@ -52,6 +56,10 @@ No, I am not. This is an unofficial port, hence the different name.
 This is an early release, so some features, like category/featured images support, are not present, yet. They will be, later on, if the plugin gets enough interest.
 
 == Changelog ==
+
+### 0.3.3
+* several bugfixes
+* some fixes for better debuging
 
 = 0.3.2 = 
 * Bugfix - low level php notices failing on some setups
