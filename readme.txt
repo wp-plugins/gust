@@ -4,7 +4,7 @@ Donate link: http://wordofpress.com/gust
 Tags: ghost, admin panel, markdown, editor, dashboard, admin
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 0.3.3
+Stable tag: 0.4.0
 License: MIT
 License URI: http://wordofpress.com/gust/license
 
